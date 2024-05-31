@@ -1,3 +1,39 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=slice&color=00bfbf&height=120&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&weight=800&size=35&duration=1&pause=1000&color=00BFBF&center=true&vCenter=true&random=false&width=1000&lines=Ol%C3%A1%2C+me+chamo+Thiago+de+Souza)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&weight=800&size=20&duration=1&pause=1000&color=00BFBF&center=true&vCenter=true&random=false&width=1000&lines=Sejam+bem+vindos+ao+meu+perfil+do+GitHub)](https://git.io/typing-svg)
+<hr>
+
+## Sobre Mim
+
+:heavy_check_mark: Formado em Tecnologia em Análise e Desenvolvimento de Sistemas na Unicesumar, conclusão em Janeiro de 2024.
+
+:heavy_check_mark: Apaixonado por tecnologia e em constante aprendizado.
+
+:heavy_check_mark: Habilidades com HTML, CSS, Bootstrap, PHP, MySQL, JAVA, conhecimentos avançados em Pacote Office, Sistemas Operacionais, habilidades em implantação e configuração de redes e equipamentos além de habilidades de softs skills como Agilidade, Comunicação, Colaboração e Trabalho em Equipe.
+
+:heavy_check_mark: Mais de 10 anos de experiência como técnico de suporte de informática com experiência em suporte técnico (N1, N2, N3).
+
+<br>
+
+**Onde me encontrar?**
+
+<p align="left">
+  <a href="mailto:tdsrogerio@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:tdsrogerio@gmail.com" alt="Gmail"/></a>
+  
+  <a href="https://www.linkedin.com/in/thiaguinho-dev/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiaguinho-dev/" alt="LinkedIn"/></a>
+ 
+  <a href="https://www.facebook.com/thiago.desouza.3998/" title="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/thiago.desouza.3998/" alt="Facebook"/></a>
+  
+  <a href="https://www.instagram.com/thiaguinho.pbi/" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/thiaguinho.pbi/" alt="Instagram"/></a>
+</p>
+
+<hr>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=35&pause=1000&color=00BFBF&center=true&vCenter=true&width=1000&lines=Análise+e+Desenvolvimento+de+Sistemas;Desenvolvimento+Web+Full+Stack;)](https://git.io/typing-svg)
 
 <div align="center">  
@@ -32,11 +68,18 @@
 ![MYSQL WORKBENCH](https://img.shields.io/badge/-MYSQL%20WORKBENCH-0D1117?style=for-the-badge&logo=MYSQL+WORKBENCH&logoColor=orange&labelColor=0D1117)&nbsp;
 ![PHPMYADMIN](https://img.shields.io/badge/-PHPMYADMIN-0D1117?style=for-the-badge&logo=PHPMYADMIN&logoColor=orange&labelColor=0D1117)&nbsp;
 
-<br>
-<br>
+
+
 <hr>
 
-![](https://komarev.com/ghpvc/?username=Thiaguinhopbi&color=006bed)
+  ![](https://komarev.com/ghpvc/?username=Thiaguinhopbi&color=006bed)
+
+  <br>
+
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=slice&color=00bfbf&height=120&section=footer"/>
 
 
 
