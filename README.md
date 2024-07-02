@@ -6,7 +6,7 @@
 
 ## Sobre Mim
 
-:heavy_check_mark: Formado em Tecnologia em Análise e Desenvolvimento de Sistemas na Unicesumar, conclusão em Janeiro de 2024.
+:heavy_check_mark: Formado em Tecnologia em Análise e Desenvolvimento de Sistemas na Unicesumar, concluído em Janeiro de 2024.
 
 :heavy_check_mark: Apaixonado por tecnologia e em constante aprendizado.
 
