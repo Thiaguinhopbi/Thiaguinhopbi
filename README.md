@@ -36,10 +36,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=35&pause=1000&color=00BFBF&center=true&vCenter=true&width=1000&lines=Análise+e+Desenvolvimento+de+Sistemas;Desenvolvimento+Web+Full+Stack;)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Thiaguinhopbi&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Thiaguinho GitHub stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiaguinhopbi&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
 
 <br>
 
